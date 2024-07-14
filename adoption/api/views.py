@@ -6,4 +6,4 @@ def main(request):
     return HttpResponse("<h1>Pet Adoption System</h1>")
 
 def test(request):
-    return HttpResponse("I am the King of forest, Adopt me!")
+    return HttpResponse("I am the King of the forest, Can you adopt me?")
